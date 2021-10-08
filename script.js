@@ -1,4 +1,4 @@
-    $('head').append('<link rel="stylesheet" type="text/css" href="https://tuyulse5.github.io/styles.css">');
+
     $(document).ready(function () {
             $('body').addClass('cover');
     });
